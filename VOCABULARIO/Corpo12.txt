@@ -1,0 +1,6 @@
+corpo12
+
+pescoço = le cou
+peito = la poitrine
+barriga  = le ventre
+

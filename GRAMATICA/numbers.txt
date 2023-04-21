@@ -1,0 +1,68 @@
+0 = zéro 11 = onze 
+1 = un 12 = douze 
+2 = deux 13 = treize 
+3 = trois 14 = quatorze 
+4 = quatre 15 = quinze 
+5 = cinq 16 = seize 
+6 = six 17 = dix-sept 
+7 = sept 18 = dix-huit 
+8 = huit 19 = dix-neuf 
+9 = neuf 20 = vingt 
+10 = dix
+
+
+20 = vingt 80 = quatre-vingts 
+30 = trente 90 = quatre-vingt-dix 
+40 = quarante 100 = cent 
+50 = cinquante 200 = deux cent 
+60 = soixante 1000 = mille 
+70 = soixante-dix 2000 = deux mille
+
+
+En général, on utilise la conjonction de coordination "et" les nombres qui se terminent par 1 :
+
+21 = vingt et un 31 = trente et un
+22 = vingt-deux 32 = trente-deux
+41 = quarante et un 61 = soixante et un
+42 = quarante-deux 62 = soixante-deux
+
+Attention :
+
+71 = soixante et onze 81 = quatre-vingt-un
+72 = soixante-douze 82 = quatre-vingt-deux
+91 = quatre-vingt-onze
+92 = quatre-vingt-douze
+
+Attention à l'accord du nombre 100 :
+
+Pierre a acheté deux cents livres (s'accorde si il n'y a pas de chiffre après) Pierre a acheté cent quatre livres (invariable)
+
+600 = six cents
+601 = six cent un
+617 = six cent dix-sept
+620 = six cent vingt
+621 = six cent vingt et un
+622 = six cent vingt-deux
+200 = deux cents
+201 = deux cent un
+202 = deux cent deux
+231 = deux cent trente et un
+261 = deux cent soixante et un
+271 = deux cent soixante et onze
+281 = deux cent quatre-vingt**-un**
+291 = deux cent quatre-vingt**-onze**
+1100 = mille cent
+
+Les fractions
+
+(forme irrégulière)
+½ un demi
+⅓ un tiers
+ ¼ un quart
+
+(nombre ordinal)
+⅕ un cinquième
+1/10 un dixième
+1/20 un vingtième
+1/100 un centième
+1/1000 un millième
