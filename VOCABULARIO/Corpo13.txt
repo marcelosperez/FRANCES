@@ -1,8 +1,0 @@
-Corpo13
-
-ombro = l'épaule
-nuca = la nuque
-braço = le bras
-cotovelo = le coude
-costas = le dos
-axila = l'aisselle
