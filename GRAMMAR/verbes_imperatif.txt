@@ -1,7 +1,0 @@
- 
-
-IMPERATIF
-(tu = je) parler –> parle !
-(nous) parler –> parlons !
-(vous) parler –> parlez !
- 
