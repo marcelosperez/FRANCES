@@ -1,6 +1,6 @@
 # Learn Java in French
  
-Apprenez à coder en Java sur OpenClassrooms
+Apprenez à coder en Java en français
 
 Ce cours suit une progression logique que l’on a séquencée en 3 parties. Chaque partie contient plusieurs chapitres, qu’il est préférable de suivre dans l’ordre.
 
