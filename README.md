@@ -2,7 +2,7 @@
  
 Apprenez à coder en Java en français
 
-Ce cours suit une progression logique que l’on a séquencée en 3 parties. Chaque partie contient plusieurs chapitres, qu’il est préférable de suivre dans l’ordre.
+Ce cours suit une progression logique que j'ai séquencée en 3 parties. Chaque partie contient plusieurs chapitres, qu’il est préférable de suivre dans l’ordre.
 
 Dans ces chapitres, vous retrouverez régulièrement :
 
